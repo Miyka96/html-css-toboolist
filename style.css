@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(230, 230, 230);
+    background-color: #f6f8f9;
 }
 header{
     height: 70px;
@@ -12,9 +12,45 @@ header>h1{
 header>img{
     padding-top: 5px;
 }
-.container{
+.container1{
     background-color: white;
+    margin-top: 2%;
     margin-left: 20%;
     margin-right: 20%;
     border-top-left-radius: 10px;
+}
+#buttonscontainer{
+    margin-bottom: 5px;
+    border-radius: 8px;
+
+}
+#button1{
+  border-radius: 6px;
+  border-style: none;
+  padding: 5px;
+  width: 90px;
+  height: 30px;
+  color: white;
+  background-color: #47adf1;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+#button2{
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #d2d6da;
+    padding: 5px;
+    width: 90px;
+    height: 30px;
+    color: #d2d6da;
+    background-color: #ffffff;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.maincontainer{
+    
 }
