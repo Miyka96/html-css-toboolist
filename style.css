@@ -52,5 +52,6 @@ header>img{
     margin-bottom: 10px;
 }
 .maincontainer{
-    
+    margin-bottom: 2px;
+    border-radius: 8px;
 }
