@@ -71,27 +71,31 @@ div>h3{
 }
 .checkmark{
     display: inline-block;
-    height: 15px;
-    width: 15px;
+    height: 18px;
+    width: 18px;
     border-radius: 50%;
-    border-style: solid;
+    border: 1px solid;
     border-color: #6cc4af;
     color: #6cc4af;
     margin-left: 6%;
-    padding-left: 2px;
-    padding-bottom: 3px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 14px;
 }
+
 .errormark{
     display: inline-block;
-    height: 15px;
-    width: 15px;
+    height: 18px;
+    width: 18px;
     border-radius: 50%;
-    border-style: solid;
+    border: 1px solid;
     border-color: #ff2323;
     color: #ff2323;
     margin-left: 6%;
-    padding-left: 2px;
-    padding-bottom: 5px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 12px;
+   
 }
 .listitems{
     display: inline-block;
@@ -109,10 +113,10 @@ div>h3{
     color: white;
     font-size: 12px;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 #purplebutton{
     background-color: #9c72e4;
@@ -121,10 +125,10 @@ div>h3{
     color: white;
     font-size: 12px;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 #greenbutton{
     background-color: #64c0a9;
@@ -133,10 +137,10 @@ div>h3{
     color: white;
     font-size: 12px;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 #orangebutton{
     background-color: #f29e33;
@@ -145,10 +149,10 @@ div>h3{
     color: white;
     font-size: 12px;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 #pinkbutton{
     background-color: #d863a1;
@@ -157,10 +161,10 @@ div>h3{
     color: white;
     font-size: 12px;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 #lightgreenbutton{
     background-color: #b0c926;
@@ -169,8 +173,8 @@ div>h3{
     color: white;
     font-size: 12px;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
